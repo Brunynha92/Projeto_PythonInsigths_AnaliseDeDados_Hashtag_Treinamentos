@@ -1,0 +1,1 @@
+# Projeto_PythonInsigths_AnaliseDeDados_Hashtag_Treinamentos
